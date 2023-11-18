@@ -54,7 +54,6 @@ h2 {
 .game {
     width: 430px;
     height: 430px;
-    border: 1px solid black;
     display: flex;
     flex-wrap: wrap;
     gap: 10px;
@@ -72,6 +71,7 @@ h2 {
     font-size: 3rem;
     transform: rotateY(180deg);
     transition: 0.25s;
+    cursor: pointer;
 }
 .item::after {
     content: "";
