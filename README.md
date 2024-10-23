@@ -1,6 +1,6 @@
 # Jogo da Memória
 
-Este projeto é um simples jogo da memória utilizando emojis, desenvolvido como parte do meu aprendizado de JavaScript, HTML e CSS.
+Este projeto é um simples jogo da memória utilizando emojis, desenvolvido como parte do meu aprendizado na DIO de JavaScript, HTML e CSS.
 
 ## Ver Demonstração
 
